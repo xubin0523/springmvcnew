@@ -5,6 +5,7 @@
     <title></title>
 </head>
 <body>
-sdfdfdjfhdj
+{{name}}
+{{message}}
 </body>
 </html>
